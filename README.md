@@ -1,9 +1,6 @@
 <h1 align="center">My dotfiles</h1>
-
-<h2 align="center">✨ Showcase</h2>
-
+## ✨ Showcase
 ![LabWC](screenshot/rice.jpg "LabWC")
-
 **Compositor:** [labwc](https://github.com/labwc/labwc) ·
 **Bar:** [yambar](https://codeberg.org/dnkl/yambar) ·
 **Terminal:** [alacritty](https://github.com/alacritty/alacritty) ·
